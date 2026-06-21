@@ -339,9 +339,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: [HAMZA RASHID]
-- **Email**: [your.shrnumber002@gamil.com]
-- **Project Link**: (https://github.com/SHRnumber/Face-Recognition-Attendance-System)
+- **Author**: HAMZA RASHID
+- **Email**: shrnumber002@gamil.com
+- **Project Link**: https://github.com/SHRnumber/Face-Recognition-Attendance-System
 
 
 ## ⭐ Support

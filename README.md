@@ -2,7 +2,9 @@
 
 A powerful, web-based attendance management system that uses **facial recognition technology** to automatically mark student attendance. Built with Flask, OpenCV, and Machine Learning.
 
-<img width="510" height="428" alt="Screenshot 2026-06-21 102810" src="https://github.com/user-attachments/assets/a101230a-2817-4926-9522-eca60b723d26" />
+
+<img width="510" height="428" alt="Screenshot 2026-06-21 102810" src="https://github.com/user-attachments/assets/59daee76-0437-4769-b06e-5ac875114709" />
+
   
 <img width="502" height="610" alt="Screenshot 2026-06-21 102820" src="https://github.com/user-attachments/assets/9b170b28-a292-4889-b447-f8bfc401a019" />
 
